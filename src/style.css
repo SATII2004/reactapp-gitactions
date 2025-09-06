@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  height: 100vh; /* full viewport height */
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;    /* vertical center */
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  color: #007acc;
+  font-size: 2.5rem;
+}
+
+.container p {
+  font-size: 1.2rem;
+  color: #ca7575;
+}
